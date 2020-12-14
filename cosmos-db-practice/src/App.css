@@ -1,0 +1,22 @@
+.App {
+  text-align: left;
+}
+
+.Post-wrap{
+  display: block;
+  position: relative;
+  margin: 5%;
+  padding: 5%;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.Post-wrap h1{
+  margin: 0;
+  margin-bottom: 3%;
+}
+
+.Post-wrap h6{
+  margin: 1% 0 1% 0;
+  color: rgba(128, 128, 128, 0.5);
+}
